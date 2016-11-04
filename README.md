@@ -1,7 +1,7 @@
-Persona theme for NodeBB
+Enix theme for NodeBB
 ====================
 
-Persona is the new default theme for NodeBB as of v0.7.1
+Enix is the new default theme for NodeBB as of v0.7.1
 
 ## Addons
 
