@@ -19,7 +19,8 @@
 
 		<ul component="topic" class="posts" data-tid="{tid}" data-cid="{cid}">
 			<!-- BEGIN posts -->
-				<li component="post" class="well <!-- IF posts.deleted -->deleted<!-- ENDIF posts.deleted -->" <!-- IMPORT partials/data/topic.tpl -->>
+				<div class="well">
+				<li component="post" class="<!-- IF posts.deleted -->deleted<!-- ENDIF posts.deleted -->" <!-- IMPORT partials/data/topic.tpl -->>
 					<a component="post/anchor" data-index="{posts.index}" name="{posts.index}"></a>
 
 					<meta itemprop="datePublished" content="{posts.timestampISO}">
@@ -30,6 +31,7 @@
 					<div class="post-bar-placeholder"></div>
 					<!-- ENDIF !posts.index -->
 				</li>
+				</div>
 			<!-- END posts -->
 		</ul>
 
