@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-persona",
-    "name": "Persona",
+    "id": "nodebb-theme-enix",
+    "name": "Enix",
     "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "url": "https://github.com/Xseba360/nodebb-theme-enix",
     "screenshot": "screenshot.png"
 }
