@@ -30,6 +30,7 @@
 					<div class="post-bar-placeholder"></div>
 					<!-- ENDIF !posts.index -->
 				</li>
+				<hr />
 			<!-- END posts -->
 		</ul>
 
