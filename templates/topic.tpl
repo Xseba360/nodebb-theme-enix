@@ -35,7 +35,11 @@
 				<hr />
 			<!-- END posts -->
 		</ul>
-
+		
+		<!-- IF config.enableQuickReply -->
+		<!-- IMPORT partials/topic/quickreply.tpl -->
+		<!-- ENDIF config.enableQuickReply -->
+		
 		<div class="post-bar">
 			<!-- IMPORT partials/post_bar.tpl -->
 		</div>
